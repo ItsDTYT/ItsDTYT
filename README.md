@@ -7,14 +7,12 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=91&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=96&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img data-importer="image" align="right" height="264" src="https://c.tenor.com/uKelfiTDlWAAAAAC/tenor.gif"  />
+<img data-importer="image" align="right" height="260" src="https://c.tenor.com/uKelfiTDlWAAAAAC/tenor.gif"  />
 
 ###
 
@@ -42,12 +40,6 @@
 
 ###
 
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsDTYT/ItsDTYT/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsDTYT/ItsDTYT/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ItsDTYT/ItsDTYT/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/ItsDTYT/ItsDTYT/snake-output/snake.svg" alt="Snake animation" />
 
 ###
