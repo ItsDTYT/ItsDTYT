@@ -1,33 +1,34 @@
 <div align="center">
   <h1>Hey, I'm DT 👋</h1>
-  <p><b>Beginner Developer</b> • Machine Learning Fundamentals • Game Systems • Web</p>
+  <p><b>Developer</b> • Local AI Pipelines • Embedded Systems • Game Mechanics</p>
 
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/897711166967664690" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://youtube.com/@ItsjustDT-yt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/itsmedt1?stkn=MXRvZzdjcTE4MW9hMA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 <br/>
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="62%">
       <h3>About Me</h3>
       <ul>
-        <li>🤖 <b>Projects:</b> Built a custom AI model from scratch and a mobile Jarvis assistant</li>
-        <li>📚 <b>Learning:</b> Python, Luau, and web fundamentals</li>
-        <li>🎯 <b>Goals:</b> Backend logic, foundational ML, and clean software design</li>
-        <li>🎲 <b>Approach:</b> Learning by building functional systems rather than passive theory</li>
+        <li>🤖 <b>AI & Backend:</b> Built custom AI architectures from scratch, local LLM microservice backends (Flask/Ollama), and Jarvis-style mobile integrations.</li>
+        <li>🕹️ <b>Game Systems:</b> Scripting custom movement mechanics, weapon viewmodels, and client-server network logic in Luau.</li>
+        <li>⚡ <b>Hardware & Tools:</b> Developing dual-ESP32 setups (ESP-NOW/SPI), and Python image-to-G-code converters for CNC machining.</li>
+        <li>🎯 <b>Current Focus:</b> Deepening low-level backend architecture, local machine learning pipelines, and embedded C++.</li>
       </ul>
-      <h3>Technologies</h3>
+      <h3>Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       </p>
     </td>
-    <td align="center" valign="middle" width="40%">
+    <td align="center" valign="middle" width="38%">
       <img src="https://c.tenor.com/uKelfiTDlWAAAAAC/tenor.gif" width="220" style="border-radius: 8px;" alt="Coding GIF"/>
     </td>
   </tr>
