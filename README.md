@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm DT 👋</h1>
-  <p><b>Developer</b> • Local AI Pipelines • Embedded Systems • Game Mechanics</p>
+  <p><b>Developer</b> • Local AI • Embedded Systems • Game Mechanics</p>
 
   <a href="https://discord.com/users/897711166967664690" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://youtube.com/@ItsjustDT-yt" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -14,10 +14,10 @@
     <td valign="top" width="62%">
       <h3>About Me</h3>
       <ul>
-        <li>🤖 <b>AI & Backend:</b> Built custom AI architectures from scratch, local LLM microservice backends (Flask/Ollama), and Jarvis-style mobile integrations.</li>
-        <li>🕹️ <b>Game Systems:</b> Scripting custom movement mechanics, weapon viewmodels, and client-server network logic in Luau.</li>
-        <li>⚡ <b>Hardware & Tools:</b> Developing dual-ESP32 setups (ESP-NOW/SPI), and Python image-to-G-code converters for CNC machining.</li>
-        <li>🎯 <b>Current Focus:</b> Deepening low-level backend architecture, local machine learning pipelines, and embedded C++.</li>
+        <li><b>AI & Backend:</b> Built local LLM backends with Flask and Ollama, paired with custom mobile client endpoints.</li>
+        <li><b>Game Development:</b> Write weapon viewmodels, custom movement mechanics, and client-server networking in Luau.</li>
+        <li><b>Hardware & Tooling:</b> Linked two ESP32s over ESP-NOW to drive an SPI display. Wrote a Python tool that converts images directly into CNC G-code.</li>
+        <li><b>Goals:</b> Low-level systems architecture, local machine learning, and embedded C++.</li>
       </ul>
       <h3>Tech Stack</h3>
       <p>
